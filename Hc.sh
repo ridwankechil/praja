@@ -55,8 +55,7 @@ clear
 sleep 1
 echo "Terimakasih" $nick
 sleep 2
-echo "{<root:10.7:><:masukkan disini}}>>" #tulisankeluar
-read nick1; #membaca tulisan
+echo "{<root:10.7:><:masukkan disini}}>>" #tulisankeluar read nick1; #membaca tulisan
 sleep 2
 echo
 echo
@@ -147,7 +146,7 @@ sleep 1
 echo "kata sandi anda "
 sleep 6
 echo $cy "Gmail=" $nick1
-echo $ij #allPasword #pw= $ku "===>>>    sandi =>> GueDimas " #AllPassword
+echo $ku "===>>>    sandi =>> GueDimas "
 sleep 1
 echo $me "kata sandi aktif "
 echo "___________________________________ "
