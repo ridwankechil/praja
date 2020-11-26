@@ -146,7 +146,8 @@ sleep 1
 echo "kata sandi anda "
 sleep 6
 echo $cy "Gmail=" $nick1
-echo $ku "===>>>    sandi =>> GueDimas "
+sleep 2
+echo $ku "Sandi==>>       GueDimas "
 sleep 1
 echo $me "kata sandi aktif "
 echo "___________________________________ "
