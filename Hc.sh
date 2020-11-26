@@ -55,7 +55,8 @@ clear
 sleep 1
 echo "Terimakasih" $nick
 sleep 2
-echo "{<root:10.7:><:masukkan disini}}>>" #tulisankeluar read nick1; #membaca tulisan
+echo "{<root:10.7:><:masukkan disini}}>>" #tulisankeluar
+read nick1; #membaca tulisan
 sleep 2
 echo
 echo
