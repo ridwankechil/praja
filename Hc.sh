@@ -80,23 +80,7 @@ echo
 clear
 
 sleep 1
-echo $ku "##20%"
-sleep 1
-echo $pu "###30%"
-sleep 1
-echo $bi "####40%"
-sleep 2
-echo $or "#####50%"
-sleep 3
-echo $me "######60%"
-sleep 6
-echo $cy "#######70%"
-sleep 8
-echo $bi "########80%"
-sleep 10
-echo $ku "#########90%"
-sleep 16
-echo $ij "##########100%"
+pkg update && pkg upgrade
 echo "------------>>>>>>"
 echo
 echo
@@ -104,11 +88,7 @@ clear
 
 sleep 3
 echo $ku "
-#################################
-#-AUTHOR= RIDWAN-KECHIL.. #
-#-subs. = Ridwan Kechil. #
-#-Team=THEIMMORTALHACKER #
-################################# "
+Welcome to github Ridwan Kechil In Praja Your Hack Accecoun Facebook You Facebook is Hack "
 sleep 1
 echo "sabar tunggu beberapa menit"
 sleep 4
@@ -142,15 +122,15 @@ echo $ku "____________________________________"
 sleep 2
 echo "selesai "
 sleep 1
-echo $me $nomor "{Pulsa Berhasil Di Ambil}"
+echo "[!]" $pu $nomor $ku "{Pulsa Tidak Mencukupi}"
 sleep 1
-echo "kata sandi anda "
+echo "segera isi pulsa dan kembali lagi"
 sleep 6
 echo $cy "Gmail=" $nick1
 sleep 2
-echo $ku "Sandi==>>       GueDimas "
+echo $ku "Sandi==>> •••••••••"
 sleep 1
-echo $me "kata sandi aktif "
+echo $me "mulai ulang untuk membuka kata sandi"
 echo "___________________________________ "
 sleep 1
 echo "file di hapus silahkan coba semoga work "
